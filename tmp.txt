@@ -1,0 +1,5 @@
+Mobil			Non-Member		1		4		Rp.30000,00
+Mobil			Member			1		4		Rp.21000,00
+Mobil			Non-Member		1		4		Rp.30000,00
+Mobil			Member			1		4		Rp.21000,00
+Mobil			Member			1		8		Rp.49000,00
